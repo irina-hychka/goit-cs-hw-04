@@ -1,0 +1,3 @@
+THREADING can speed things up, but beware of shared state.
+Some libraries use Threading, others rely on thread pools.
+Not every problem fits threading well.

@@ -1,0 +1,5 @@
+Draft notes for ETL pipeline:
+- Use multiprocessing for CPU-bound parsing steps.
+- Use a Queue to collect partial results from worker processes.
+- Measure performance with time.perf_counter().
+- Final aggregation happens in the main process.

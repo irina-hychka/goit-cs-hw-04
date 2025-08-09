@@ -1,0 +1,4 @@
+[2025-08-08 10:22:11] INFO Starting job
+[2025-08-08 10:22:12] WARN Queue depth at 42
+[2025-08-08 10:22:13] INFO Spawning workers with multiprocessing
+[2025-08-08 10:22:15] INFO Done

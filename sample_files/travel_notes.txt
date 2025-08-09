@@ -1,0 +1,3 @@
+I love planning trips by train.
+Performance matters when searching thousands of itineraries in Python.
+A small queue of tasks can keep the worker threads busy while I sip coffee.

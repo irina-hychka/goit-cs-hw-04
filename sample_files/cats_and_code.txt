@@ -1,0 +1,3 @@
+I watched my cat sleep on the keyboard while I tested Python scripts.
+Sometimes I think about threading as a ball of yarn: many strands moving at once.
+In small utilities, a simple queue can help coordinate workers.
